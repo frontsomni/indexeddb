@@ -1,0 +1,20 @@
+{
+  "name": "indexeddb-study",
+  "version": "1.0.0",
+  "description": "* npm install -g @vue/cli-service-global *",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue serve index.vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuelau/indexeddb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuelau/indexeddb/issues"
+  },
+  "homepage": "https://github.com/yuelau/indexeddb#readme"
+}
